@@ -1,3 +1,7 @@
+#Code by Cameron Pace
+#this is a GUI used to store shipment information.
+
+
 import tkinter as tk
 import pickle
 from tkinter import ttk, scrolledtext
